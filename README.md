@@ -11,3 +11,7 @@ Java版本：JDK 1.8
 数据库管理工具：Navicat for MySQL
 
 前端框架：EasyUI框架和H-UI框架
+
+注：db_zjgsu_dormitory_manager_web.sql为数据库文件
+
+ZJGSU-DormitoryManagerWeb为完整系统项目
